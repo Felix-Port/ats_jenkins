@@ -1,1 +1,1 @@
-# ats_jenkins
+# Simple Automation Test Run with Jenkins
